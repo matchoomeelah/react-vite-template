@@ -16,5 +16,7 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    'react/prop-types': 'off' // turns off the rule checking that you always validate the type of your props
   },
+  ignorePatterns: ['dist', 'node_modules'], // linter should ignore dist and node_modules
 }

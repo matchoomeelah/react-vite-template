@@ -1,8 +1,23 @@
-# React + Vite
+# React + Vite Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a template available for cloning when i want to make a new React/Vite project. It has some configuration changes to make things run how I want with the linter among other things.
 
-Currently, two official plugins are available:
+## How to clone
+```npx tiged matchoomeelah/my-react-vite-template#main project-name```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Running the application
+Change directory to your new application directory
+```cd project-name```
+
+Install the dependencies
+```npm install```
+
+
+Run the app
+```npm run dev```
+
+
+## Customize
+Make sure to change the ```title``` in index.html, and the ```name``` in package.json to reflect your app's details.
+
+Make a new README.md eventually!
