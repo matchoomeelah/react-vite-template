@@ -20,4 +20,4 @@ Run the app
 ## Customize
 Make sure to change the ```title``` in index.html, and the ```name``` in package.json to reflect your app's details.
 
-Make a new README.md eventually!
+Make a new README.md eventually.
