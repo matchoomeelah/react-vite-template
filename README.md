@@ -3,7 +3,7 @@
 This is a template available for cloning when i want to make a new React/Vite project. It has some configuration changes to make things run how I want with the linter among other things.
 
 ## How to clone
-```npx tiged matchoomeelah/my-react-vite-template#main project-name```
+```npx tiged matchoomeelah/react-vite-template#main project-name```
 
 ## Running the application
 Change directory to your new application directory
